@@ -1,4 +1,4 @@
-# formation_python_projet_1_scraping
+# Projet Scraping
 
 1) Installer un environnement virtuel
 https://docs.python.org/fr/3/library/venv.html
