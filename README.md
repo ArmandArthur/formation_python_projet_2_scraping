@@ -12,5 +12,5 @@ py scraping_product.py
 4) Extrait dans un CSV tous les produits d'une catégorie (dossier category) avec pagination: 
 py scraping_category.py
 
-5) Extraites dans des CSV distincts tous les produits de toutes les catégories (dossier books) avec pagination: 
+5) Extrait dans des CSV distincts tous les produits de toutes les catégories (dossier books) avec pagination: 
 py scraping_books.py
