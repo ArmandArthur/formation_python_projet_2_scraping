@@ -61,8 +61,7 @@ class Product:
         else:
             product_description = ''
 
-        category = self.uri.split('/')[0]
-        category = self.format_string(category)
+        category = self.category_name
 
         review_rating = soup.find('table', class_="table-striped").findAll('tr')[6].find('td').text
         review_rating = self.format_string(review_rating)
